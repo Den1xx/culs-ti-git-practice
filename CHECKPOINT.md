@@ -1,7 +1,7 @@
 # Checkpoint
 
-test
-Add one line below: a Git command, and the question it answers.
 
+Add one line below: a Git command, and the question it answers.
+test
 For example: `git diff --cached` answers "What is staged for the next commit?".
 
